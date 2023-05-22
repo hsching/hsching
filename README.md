@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! This is Cathy Chen
+🐳 I'm currently a year 2 student majoring in Information Systems at HKUST
+🤩 My interests: 🎧 Music, 🎭 Theater, 📔 Reading
 
 <!--
 **hsching/hsching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
