@@ -1,4 +1,4 @@
-### Hi there! This is Cathy Chen
+- ### Hi there! This is Cathy Chen!
 - 🐳 I'm currently a year 2 student majoring in Information Systems at HKUST
 - 🤩 My interests: 🎧 Music, 🎭 Theater, 📔 Reading
 
