@@ -1,5 +1,5 @@
 - ### Hi there! This is Cathy Chen!
-- 🐳 I'm currently a year 3 student majoring in Information Systems at HKUST
+- 🐳 I'm currently a BBA student majoring in Information Systems and Operations Management at HKUST
 - 🤩 My interests: 🎧 Music, 🎭 Theater, 📔 Reading
 
 <!--
